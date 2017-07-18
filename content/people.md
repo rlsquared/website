@@ -11,6 +11,7 @@ title: People
 ## Current Members
 
 * **Alex Brown** (Undergraduate)
+* **Andreas Lydakis** (MSc)
 * **Bahram Behzadian** (PhD)
 * [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) (PhD)
 * **Jordan Ramsdell** (PhD)
