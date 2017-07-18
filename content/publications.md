@@ -4,7 +4,7 @@ title: Publications
 
 ### 2017
 
-[A Practical Method for Solving Contextual Bandit Problems Using Decision Trees](https://arxiv.org/abs/1706.04687), Adam N. Elmachtoub, Ryan McNellis, Marek Petrik, Sechan Oh, *Uncertainty in Artificial Intelligence (UAI)*, 2017.
+[A Practical Method for Solving Contextual Bandit Problems Using Decision Trees](https://arxiv.org/abs/1706.04687), Adam N. Elmachtoub, Ryan McNellis, Sechan Oh, Marek Petrik, *Uncertainty in Artificial Intelligence (UAI)*, 2017.
 
 [Value Directed Exploration in Multi-Armed Bandits with Structured Priors](https://arxiv.org/abs/1704.03926), Bence Cserna, Marek Petrik, Reazul Hasan Russel, Wheeler Ruml, *Uncertainty in Artificial Intelligence (UAI)*, 2017.
 
