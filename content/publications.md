@@ -1,6 +1,4 @@
----
-title: Publications
----
+# Publications
 
 ### 2017
 

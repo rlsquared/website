@@ -2,10 +2,13 @@ baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
 title = "RLsquared"
-theme = "crab"
+theme = "hugo-bootstrap-premium"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[params.theme]
+    name = "journal"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -13,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.main]]
     weight = 1
     name = "Home"
-    url = "/home/"
+    url = "/"
 
 [[menu.main]]
     weight = 5
@@ -34,16 +37,25 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     weight = 20
     name = "Code"
     identifier = "code"
-    [[menu.main]]
-        parent = "code"
-        weight = 20
-        name = "GitHub"
-        url = "https://github.com/rlsquared"
+    url = "https://github.com/rlsquared"
+
+[[menu.main]]
+    parent = "code"
+    weight = 20
+    name = "GitHub"
+    
 
 [params]
     description = "Reinforcement Learning and Robustness Lab"
 
-    logoimage = "img/logo-small.png"
+    #logoimage = "/img/logo-small.png"
+    #BrandImage = "/img/logo-small.png"
+
+    home = "home"
+
+    showRightSidebar = false
+
+    highlight = "default"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
