@@ -8,7 +8,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [params.theme]
-    name = "journal"
+    name = "cosmo"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -44,7 +44,12 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     weight = 20
     name = "GitHub"
     
-
+[[menu.main]]
+    weight = 30
+    name = "Lab"
+    url = "/lab/"
+    
+    
 [params]
     description = "Reinforcement Learning and Robustness Lab"
 
@@ -60,7 +65,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
     highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
+    highlightjsLang = ["r", "c++", "python"]
     highlightjsTheme = "github"
 
     MathJaxCDN = "//cdn.bootcss.com"
