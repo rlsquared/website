@@ -12,8 +12,8 @@ Date    |     Speaker       |     Topic         |
 --------|-------------------|-------------------|
 |Sep 01 | Marek             | Fast s-rectangular robustness
 |Sep 08 | Bahram            | [Linear feature encoding](https://users.cs.duke.edu/~parr/NIPS2016_Encoder.pdf)| 
-|Sep 15 | Bence             | | 
-|Sep 22 | Jordan            | | 
+|Sep 15 | Bence             | Meeting canceled, Bence at robotics seminar: 12:10-1pm in Kingsbury N101  | 
+|Sep 22 | Jordan            | Meta-modeling and spatial analysis | 
 |Sep 29 | Reazul            | | 
 |Oct 06 | Andreas           | | 
 |Oct 13 | Talha             | | 
