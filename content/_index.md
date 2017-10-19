@@ -19,3 +19,10 @@ Our current applications are:
 * Data-driven pest management in agriculture with [Shadi Atallah](https://colsa.unh.edu/faculty/atallah)
 * Active learning for image recognition with 
 * Autonomous control of marine vessels
+
+
+## Sponsors ##
+
+![nsflogo](https://nsf.gov/images/logos/nsf1.gif) 
+
+![ibmlogo](https://www-03.ibm.com/press/us/en/attachment/20190.wss?fileId=ATTACH_FILE0&fileName=ibmpos_blue_thumb.jpg)

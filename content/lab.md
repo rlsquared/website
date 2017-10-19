@@ -14,11 +14,11 @@ Date    |     Speaker       |     Topic         |
 |Sep 08 | Bahram            | [Linear feature encoding](https://users.cs.duke.edu/~parr/NIPS2016_Encoder.pdf)| 
 |Sep 15 | Bence             | Meeting canceled, Bence at robotics seminar: 12:10-1pm in Kingsbury N101  | 
 |Sep 22 | Jordan            | Meta-modeling and spatial analysis | 
-|Sep 29 | Reazul            | | 
-|Oct 06 | Andreas           | | 
-|Oct 13 | Talha             | | 
-|Oct 20 | Marek             | | 
-|Oct 27 | Bence             | | 
+|Sep 29 | (Hala)            | | 
+|Oct 06 | Reazul            | Bayesian robust ambiguity sets     | 
+|Oct 13 | Andreas           | [Maximum entropy for species distributions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.89&rep=rep1&type=pdf) | 
+|Oct 20 | Marek             | [Minimizing Regret in MDPs](https://www.jair.org/media/5242/live-5242-10005-jair.pdf) | 
+|Oct 27 | Bence + Jordan    | Active learning and MaxEnt | 
 |Nov 03 | Bahram            | | 
 |Nov 10 | Jordan            | | 
 |Nov 17 | Reazul            | | 
