@@ -28,10 +28,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     name = "Publications"
     url = "/publications/"
 
-#[[menu.main]]
-#    weight = 15
-#    name = "Projects"
-#    url = "/projects/"
+[[menu.main]]
+    weight = 15
+    name = "Projects"
+    url = "/projects/"
 
 [[menu.main]]
     weight = 20
@@ -46,7 +46,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     
 [[menu.main]]
     weight = 30
-    name = "Lab"
+    name = "Meetings"
     url = "/lab/"
     
     

@@ -19,9 +19,9 @@ Date    |     Speaker       |     Topic         |
 |Oct 13 | Andreas           | [Maximum entropy for species distributions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.89&rep=rep1&type=pdf) | 
 |Oct 20 | Marek             | [Minimizing Regret in MDPs](https://www.jair.org/media/5242/live-5242-10005-jair.pdf) | 
 |Oct 27 | Bence + Jordan    | Active learning and MaxEnt | 
-|Nov 03 | Bahram            | | 
-|Nov 10 | Jordan            | | 
+|Nov 03 | Talha             | [Practical Precautionary Resource Management Using Robust Optimization](https://link.springer.com/article/10.1007/s00267-014-0348-1) | 
+|Nov 10 |                   | **Veteran's day** | 
 |Nov 17 | Reazul            | | 
-|Nov 24 | N/A               | **Thanksgiving** | 
+|Nov 24 |                   | **Thanksgiving** | 
 |Dec 01 | Andreas           | | 
 |Dec 08 | Talha             | | 
