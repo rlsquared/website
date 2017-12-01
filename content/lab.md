@@ -40,4 +40,4 @@ Date    |     Speaker       |     Topic         |
 |Nov 17 | Nobody            | | 
 |Nov 24 |                   | **Thanksgiving** | 
 |Dec 01 | Jordan            | | 
-|Dec 08 | Reazul            | | 
+|Dec 08 | Bence             | [LinUCB](https://arxiv.org/pdf/1003.0146.pdf) | 
