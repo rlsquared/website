@@ -1,6 +1,22 @@
 
 # Group Meetings
 
+## Winter 2018
+
+**When**: Wednesday 11:00am - 12:00pm
+
+**Where**: Kingsbury N233
+
+**Also**: Pizza
+
+Date    |     Lead          |     Topic         |
+--------|-------------------|-------------------|
+Dec 13  |                   |                   |  
+Dec 20  |                   |                   |
+Jan 3   |                   |                   |
+Jan 10  |                   |                   |
+Jan 17  |                   |                   |
+
 ## Fall 2017
 
 **When**: Friday 10:00am - 11:00am
@@ -21,7 +37,7 @@ Date    |     Speaker       |     Topic         |
 |Oct 27 | Bence + Jordan    | Active learning and MaxEnt | 
 |Nov 03 | Talha             | [Practical Precautionary Resource Management Using Robust Optimization](https://link.springer.com/article/10.1007/s00267-014-0348-1) | 
 |Nov 10 |                   | **Veteran's day** | 
-|Nov 17 | Reazul            | | 
+|Nov 17 | Nobody            | | 
 |Nov 24 |                   | **Thanksgiving** | 
-|Dec 01 | Andreas           | | 
-|Dec 08 | Talha             | | 
+|Dec 01 | Jordan            | | 
+|Dec 08 | Reazul            | | 
