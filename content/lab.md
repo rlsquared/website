@@ -3,19 +3,19 @@
 
 ## Winter 2018
 
-**When**: Wednesday 11:00am - 12:00pm
+Joint meetings with Wheeler's group.
+
+**When**: Wednesday 12:00pm - 1:00pm
 
 **Where**: Kingsbury N233
 
 **Also**: Pizza
 
-Date    |     Lead          |     Topic         |
---------|-------------------|-------------------|
-Dec 13  |                   |                   |  
-Dec 20  |                   |                   |
-Jan 3   |                   |                   |
-Jan 10  |                   |                   |
-Jan 17  |                   |                   |
+Date    |    Paper          |
+--------|-------------------|
+Jan 3   |  [DESPOT](http://jair.org/papers/paper5328.html)                                  |
+Jan 10  |  [Robust MDPs](https://pubsonline.informs.org/doi/abs/10.1287/opre.1050.0216)     |
+Jan 17  |  TBD                 |
 
 ## Fall 2017
 
