@@ -15,7 +15,7 @@ Date    |    Paper          |
 --------|-------------------|
 Jan 3   |  [DESPOT](http://jair.org/papers/paper5328.html)                                  |
 Jan 10  |  [Robust MDPs](https://pubsonline.informs.org/doi/abs/10.1287/opre.1050.0216)     |
-Jan 17  |  TBD                 |
+Jan 17  |  [TDTS](http://www.jair.org/papers/paper5507.html)                 |
 
 ## Fall 2017
 
