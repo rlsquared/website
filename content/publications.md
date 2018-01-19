@@ -1,5 +1,8 @@
 # Publications
 
+ ### 2018
+
+[Low-rank Feature Selection for Reinforcement Learning](pub/Behzadian2018.pdf), Bahram Behzadian, Marek Petrik, *International Symposium on Artificial Intelligence and Mathematics*, 2018.
 
 ### 2017
 
