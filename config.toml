@@ -7,9 +7,6 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
-[params.theme]
-    name = "cosmo"
-
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
@@ -48,13 +45,12 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     weight = 30
     name = "Meetings"
     url = "/lab/"
-    
-    
+
+#[params.theme]
+#   name = "paper"
+
 [params]
     description = "Reinforcement Learning and Robustness Lab"
-
-    #logoimage = "/img/logo-small.png"
-    #BrandImage = "/img/logo-small.png"
 
     home = "home"
 
