@@ -1,6 +1,23 @@
 
 # Group Meetings
 
+
+## Spring 2018
+
+
+**When**: Wednesday 4:00pm - 5:00pm
+**Where**: Kingsbury N233
+**Also**: Refreshments
+
+Date    |     Speaker       |     Topic         |
+--------|-------------------|-------------------|
+Feb 21  | Bahram            | Sparsity and LASSO
+Feb 28  | Reazul            | [Robust Adversarial Reinforcement Learning](http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)
+Mar  7  | Jordan            | [Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes](https://arxiv.org/abs/1706.06544)
+
+
+
+
 ## Winter 2018
 
 Joint meetings with Wheeler's group.
