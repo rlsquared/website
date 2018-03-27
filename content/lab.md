@@ -6,15 +6,19 @@
 
 
 **When**: Wednesday 4:00pm - 5:00pm
+
 **Where**: Kingsbury N233
+
 **Also**: Refreshments
+
 
 Date    |     Speaker       |     Topic         |
 --------|-------------------|-------------------|
 Feb 21  | Bahram            | Sparsity and LASSO
 Feb 28  | Reazul            | [Robust Adversarial Reinforcement Learning](http://proceedings.mlr.press/v70/pinto17a/pinto17a.pdf)
-Mar  7  | Jordan            | [Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes](https://arxiv.org/abs/1706.06544)
-
+Mar  21 | Jordan            | [Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes](https://arxiv.org/abs/1706.06544)
+Mar 28  | Coral             | [Adaptive Neural Network Control of AUVs With Control Input Nonlinearities Using Reinforcement Learning](http://ieeexplore.ieee.org/abstract/document/7812772/)
+Apr 4   | Shayan            | [Safe Policy Improvement by Minimizing Robust Baseline Regret](http://rmdp.xyz/publications/pub/Petrik2016b.pdf)
 
 
 

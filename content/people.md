@@ -2,6 +2,7 @@
 ## Current Members
 
 * [**Marek Petrik**](http://cs.unh.edu/~mpetrik) (PI)
+* **Shayan Amani** (PhD)
 * **Alex Brown** (Undergraduate)
 * **Bahram Behzadian** (PhD)
 * [**Bence Cserna**](http://www.cs.unh.edu/bence/) (PhD)
