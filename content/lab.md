@@ -19,7 +19,9 @@ Feb 28  | Reazul            | [Robust Adversarial Reinforcement Learning](http:/
 Mar  21 | Jordan            | [Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes](https://arxiv.org/abs/1706.06544)
 Mar 28  | Coral             | [Adaptive Neural Network Control of AUVs With Control Input Nonlinearities Using Reinforcement Learning](http://ieeexplore.ieee.org/abstract/document/7812772/)
 Apr 4   | Shayan            | [Safe Policy Improvement by Minimizing Robust Baseline Regret](http://rmdp.xyz/publications/pub/Petrik2016b.pdf)
-
+Apr 11  | Marek             | Risk-aversion tutorial
+Apr 18  | Rachel            | [PAC Optimal MDP Planning with Application to Invasive Species Management](http://www.jmlr.org/papers/volume16/taleghan15a/taleghan15a.pdf)
+Apr 25  | Jason             | [Safe Policy Improvement with Baseline Bootstrapping](https://arxiv.org/abs/1712.06924)
 
 
 ## Winter 2018
