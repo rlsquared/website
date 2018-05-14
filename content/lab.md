@@ -2,6 +2,20 @@
 # Group Meetings
 
 
+## Summer 2018
+
+**When**: Wednesday 12:00pm - 1:00pm
+
+**Where**: Kingsbury N233
+
+**Also**: Pizza
+
+
+Date    |     Speaker       |     Topic         |
+--------|-------------------|-------------------|
+May 16  | Marek (Andreas)   | Computing Robust Strategies for Managing Invasive Plants
+
+
 ## Spring 2018
 
 
@@ -22,6 +36,8 @@ Apr 4   | Shayan            | [Safe Policy Improvement by Minimizing Robust Base
 Apr 11  | Marek             | Risk-aversion tutorial
 Apr 18  | Rachel            | [PAC Optimal MDP Planning with Application to Invasive Species Management](http://www.jmlr.org/papers/volume16/taleghan15a/taleghan15a.pdf)
 Apr 25  | Jason             | [Safe Policy Improvement with Baseline Bootstrapping](https://arxiv.org/abs/1712.06924)
+May 2   | Bahram            | Markov decision processes
+May 9   | Marek             | How to be a graduate student
 
 
 ## Winter 2018
