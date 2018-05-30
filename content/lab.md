@@ -14,6 +14,11 @@
 Date    |     Speaker       |     Topic         |
 --------|-------------------|-------------------|
 May 16  | Marek (Andreas)   | Computing Robust Strategies for Managing Invasive Plants
+May 23  | Marek             | Fast Robust Bellman Updates
+May 30  | Coral (Rachel)    | [Autonomous Vehicle Navigation in Rural Environments without Detailed
+Prior Maps](https://toyota.csail.mit.edu/sites/default/files/documents/papers/ICRA2018_AutonomousVehicleNavigationRuralEnvironment.pdf)
+June 6  | Bahram (Jordan)   |                   |
+
 
 
 ## Spring 2018
