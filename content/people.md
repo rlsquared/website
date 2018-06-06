@@ -8,6 +8,7 @@
 * [**Bence Cserna**](http://www.cs.unh.edu/bence/) (PhD)
 * [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) (PhD)
 * **Talha Siddique** (MSc, Natural Resources with [Shadi Atallah](https://colsa.unh.edu/faculty/atallah))
+* **Jason Carter** (PhD)
 
 
 ## Former Members
