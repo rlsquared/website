@@ -2,6 +2,10 @@
 
 ### 2018
 
+[Fast Bellman Updates for Robust MDPs](pub/Ho2018.pdf), Chin Pang Ho, Marek Petrik, Wolfram Wiesemann, *International Conference on Machine Learning (ICML)*, 2018. \[[Full Paper](pub/Ho2018_full.pdf)\].
+
+[Computing Robust Strategies for Managing Invasive Plants](pub/Lydakis2018.pdf), Andreas Lydakis, Jenica Allen, Marek Petrik, Tim Szewczyk, AI for Wildlife Conservation Workshop at IJCAI/ICML, (2018).
+
 [Low-rank Feature Selection for Reinforcement Learning](pub/Behzadian2018.pdf), Bahram Behzadian, Marek Petrik, *International Symposium on Artificial Intelligence and Mathematics*, 2018.
 
 ### 2017
