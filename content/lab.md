@@ -18,6 +18,9 @@ May 23  | Marek             | Fast Robust Bellman Updates |
 May 30  | Coral (Rachel)    | [Autonomous Vehicle Navigation in Rural Environments without Detailed Prior Maps](https://toyota.csail.mit.edu/sites/default/files/documents/papers/ICRA2018_AutonomousVehicleNavigationRuralEnvironment.pdf) |
 June 6  | Bahram (Jordan)   | [Low-Rank Value Function Approximation for Co-optimization of Battery Storage](https://ieeexplore.ieee.org/abstract/document/7950964/)                |
 June 13 | Jason (Shayan)    | [Minimax Regret Bounds for Reinforcement Learning](https://arxiv.org/pdf/1703.05449) |
+June 20 | Monkie            | MDPs for Playing Blackjack |
+June 27 | Shayan            | MaxLike for Species Distribution Models |
+July 4  |                   | *No meeting*                          |
 
 
 
