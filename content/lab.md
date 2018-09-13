@@ -2,6 +2,32 @@
 # Group Meetings
 
 
+## Fall 2018
+
+**When**: Monday 2:00pm - 3:00pm
+
+**Where**: Kingsbury N233
+
+
+| Date  | Day |              Topic              | Presenter |
+| ----- | --- | :-----------------------------: |  :------: |
+|Sep 10 | Mon | Summer Review                   |           |
+|Sep 17 | Mon | [Planning in the Presence of Cost Functions Controlled by an Adversary](http://www.cs.cmu.edu/~ggordon/mcmahan-ggordon-blum.icml2003.pdf)   |  Jason    |
+|Sep 24 | Mon | Bayesian Distributional Robustness                             |  Marek    |
+|Oct 01 | Mon |                                 |  Chris    |
+|Oct 09 | Tue |                                 |  Bahram   |
+|Oct 15 | Mon |                                 |  Reazul   |
+|Oct 22 | Mon |                                 |  Tianyi   |
+|Oct 29 | Mon |                                 |  Soheil   |
+|Nov 05 | Mon |                                 |  Bence    |
+|Nov 12 | Mon | Veteran's day                   |  
+|Nov 19 | Mon |                                 |  Reazul   |
+|Nov 26 | Mon |                                 |  Bahram   |
+|Dec 03 | Mon |                                 |  Shayan   |
+|Dec 10 | Mon |                                 | 
+
+
+
 ## Summer 2018
 
 **When**: Wednesday 12:00pm - 1:00pm
