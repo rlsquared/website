@@ -15,8 +15,8 @@ We are current working on these topics:
 
 Our current applications are:
 
-* Management of invasive species with [Jenica Allen](https://colsa.unh.edu/faculty/allen)
-* Data-driven pest management in agriculture with [Shadi Atallah](https://colsa.unh.edu/faculty/atallah)
+* Management of invasive species with [Jenica Allen](https://scholar.google.com/citations?user=fSoN2iYAAAAJ&hl=en)
+* Data-driven pest management in agriculture with [Shadi Atallah](https://colsa.unh.edu/person/shadi-s-atallah)
 * Active learning for image recognition with 
 * Autonomous control of marine vessels
 
