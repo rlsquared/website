@@ -15,7 +15,8 @@
 |Sep 17 | Mon | [Planning in the Presence of Cost Functions Controlled by an Adversary](http://www.cs.cmu.edu/~ggordon/mcmahan-ggordon-blum.icml2003.pdf)     |  Jason    |
 |Sep 24 | Mon | Bayesian Distributional Robustness                               |  Marek    |
 |Oct 01 | Mon | [A data-driven, machine learning framework for optimal pest management in cotton](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1263)  |  Chris    |
-|Oct 09 | Tue |                                 |  Bahram   |
+|Oct 09 | Tue | Policy Conditioned Uncertainty Sets 
+                for Robust MDPs                 |  Bahram   |
 |Oct 15 | Mon |                                 |  Reazul   |
 |Oct 22 | Mon |                                 |  Tianyi   |
 |Oct 29 | Mon |                                 |  Soheil   |
