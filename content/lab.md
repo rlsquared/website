@@ -16,8 +16,8 @@
 |Sep 24 | Mon | Bayesian Distributional Robustness                               |  Marek    |
 |Oct 01 | Mon | [A data-driven, machine learning framework for optimal pest management in cotton](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1263)  |  Chris    |
 |Oct 09 | Tue | Policy Conditioned Uncertainty Sets for Robust MDPs                 |  Bahram   |
-|Oct 15 | Mon |                                 |  Reazul   |
-|Oct 22 | Mon |                                 |  Tianyi   |
+|Oct 15 | Mon | *Canceled*                               |           |   
+|Oct 22 | Mon |  [(More) Efficient Reinforcement Learning via Posterior Sampling](https://arxiv.org/pdf/1306.0940.pdf)                                |  Tianyi   |
 |Oct 29 | Mon |                                 |  Soheil   |
 |Nov 05 | Mon |                                 |  Bence    |
 |Nov 12 | Mon | Veteran's day                   |  
