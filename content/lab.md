@@ -18,8 +18,8 @@
 |Oct 09 | Tue | Policy Conditioned Uncertainty Sets for Robust MDPs                 |  Bahram   |
 |Oct 15 | Mon | *Canceled*                               |           |   
 |Oct 22 | Mon |  [(More) Efficient Reinforcement Learning via Posterior Sampling](https://arxiv.org/pdf/1306.0940.pdf)                                |  Tianyi   |
-|Oct 29 | Mon |                                 |  Soheil   |
-|Nov 05 | Mon |                                 |  Bence    |
+|Oct 29 | Mon | [Reinforcement learning with basis construction ...](https://www.sciencedirect.com/science/article/pii/S0020025514006987)               |  Soheil   |
+|Nov 05 | Mon | Finding Magnetopause            |  Samantha |
 |Nov 12 | Mon | Veteran's day                   |  
 |Nov 19 | Mon |                                 |  Reazul   |
 |Nov 26 | Mon |                                 |  Bahram   |
