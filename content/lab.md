@@ -21,10 +21,10 @@
 |Oct 29 | Mon | [Reinforcement learning with basis construction ...](https://www.sciencedirect.com/science/article/pii/S0020025514006987)               |  Soheil   |
 |Nov 05 | Mon | Finding Magnetopause            |  Samantha |
 |Nov 12 | Mon | Veteran's day                   |  
-|Nov 19 | Mon |                                 |  Reazul   |
-|Nov 26 | Mon |                                 |  Bahram   |
-|Dec 03 | Mon |                                 |  Shayan   |
-|Dec 10 | Mon |                                 | 
+|Nov 19 | Mon | Bayesian robust RL              |  Reazul   |
+|Nov 26 | Mon | Optimization for Greenhouses    |  Chris   |
+|Dec 03 | Mon | Canceled                        |   |
+|Dec 10 | Mon | NIPS report                     | Marek and Reazul |
 
 
 

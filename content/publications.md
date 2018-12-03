@@ -3,6 +3,10 @@ Publications and Presentations
 
 ### 2018
 
+[Tight Bayesian Ambiguity Sets for Robust MDPs](/pub/Russel2018.pdf), Reazul Hasan Russel, Marek Petrik, Infer2Control NIPS Workshop, 2018.
+
+[Proximal Gradient Temporal Difference Learning: Stable Reinforcement Learning with Polynomial Sample Complexity](https://www.jair.org/index.php/jair/article/view/11251), Bo Liu, Mohammad Ghavamzadeh, Ian Gemp, Mohammad Ghavamzadeh, Ji Liu, Sridhar Mahadevan, Marek Petrik, Journal of Artificial Intelligence Research (63):462-493, 2018.
+
 [Interpretable Reinforcement Learning with Ensemble Methods](https://arxiv.org/abs/1809.06995), Alexander Brown, Marek Petrik, arXiv:1809.06995
 
 [Policy Conditioned Uncertainty Sets for Robust Markov Decision Processes](#), Andrea Tirinzoni, Xiangli Chen, Marek Petrik, Brian Ziebart, To appear at NIPS 2018.
