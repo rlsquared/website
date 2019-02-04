@@ -1,6 +1,32 @@
 
 # Group Meetings
 
+Sing up for the mainling list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
+
+## Spring 2019
+
+**When**: Monday 3:30pm - 4:30pm
+
+**Where**: Kingsbury N242
+
+| Date   | Topic                                    | Presenter  |
+| ------ | -----------------------------------------| ---------  |
+| Jan 28 | Introduction                             | Marek
+| Feb 04 | Optimism in the Face of Value Functions  | Reazul and Tianyi
+| Feb 11 | Adversarial Deep RL                      | Shayan
+| Feb 18 | State Aggregation                        | Soheil
+| Feb 25 | Compressible machine learnin             | Bahram
+| Mar 04 | R-rectangular                            | Saba
+| Mar 11 | **Spring Break**                         |
+| Mar 18 | Greenhouse and other stuff               | Sangeeta or Chris
+| Mar 25 | Robustness to confounding factors        | Monkie
+| Apr 01 | Space physics                            | Samantha
+| Apr 08 | Saddle point methods for RL  (SBEED)     | Marek
+| Apr 15 | Original work: L1 Linf                   | Bahram
+| Apr 22 | Pick later                               | Reazul
+| Apr 29 | Distributional heuristic functions       | Tianyi
+| May 06 | Practice talks                           | Someone
+
 
 ## Fall 2018
 
