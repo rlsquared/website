@@ -14,7 +14,7 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | Jan 28 | Introduction                                                              | Marek
 | Feb 04 | Optimism in the Face of Value Functions                                   | Reazul and Tianyi
 | Feb 11 | [Adversarial Attacks on Neural Policies](https://arxiv.org/abs/1702.02284)| Shayan
-| Feb 18 | State Aggregation                                                         | Soheil
+| Feb 18 | [Performance Loss Bounds for Approximate Value Iteration with State Aggregation](https://dl.acm.org/citation.cfm?id=1246333)                                                      | Soheil
 | Feb 25 | Compressible machine learning                                             | Bahram
 | Mar 04 | R-rectangular                                                             | Saba
 | Mar 11 | **Spring Break**                                                          |
