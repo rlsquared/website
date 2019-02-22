@@ -9,23 +9,23 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 **Where**: Kingsbury N242
 
-| Date   | Topic                                                                     | Presenter  |
-| ------ | --------------------------------------------------------------------------| ---------  |
-| Jan 28 | Introduction                                                              | Marek
-| Feb 04 | Optimism in the Face of Value Functions                                   | Reazul and Tianyi
-| Feb 11 | [Adversarial Attacks on Neural Policies](https://arxiv.org/abs/1702.02284)| Shayan
+| Date   | Topic                                                                                               | Presenter  |
+| ------ | ----------------------------------------------------------------------------------------------------| ---------  |
+| Jan 28 | Introduction                                                                                        | Marek
+| Feb 04 | Optimism in the Face of Value Functions                                                             | Reazul and Tianyi
+| Feb 11 | [Adversarial Attacks on Neural Policies](https://arxiv.org/abs/1702.02284)                          | Shayan
 | Feb 18 | [Performance Loss Bounds for Approximate Value Iteration with State Aggregation](https://dl.acm.org/citation.cfm?id=1246333)                                                      | Soheil
-| Feb 25 | Compressible machine learning                                             | Bahram
-| Mar 04 | R-rectangular                                                             | Saba
-| Mar 11 | **Spring Break**                                                          |
-| Mar 18 | Greenhouse and other stuff                                                | Sangeeta or Chris
-| Mar 25 | Robustness to confounding factors                                         | Monkie
-| Apr 01 | Space physics                                                             | Samantha
-| Apr 08 | Saddle point methods for RL  (SBEED)                                      | Marek
-| Apr 15 | Original work: L1 Linf                                                    | Bahram
-| Apr 22 | Pick later                                                                | Reazul
-| Apr 29 | Distributional heuristic functions                                        | Tianyi
-| May 06 | Practice talks                                                            | Someone
+| Feb 25 | [Near-OptimalBayesianAmbiguity Sets](http://www-bcf.usc.edu/~guptavis/Papers/Bayes_DRO_v5_final.pdf)| Bahram
+| Mar 04 | R-rectangular                                                                                       | Saba
+| Mar 11 | **Spring Break**                                                                                    |
+| Mar 18 | Greenhouse and other stuff                                                                          | Sangeeta or Chris
+| Mar 25 | Robustness to confounding factors                                                                   | Monkie
+| Apr 01 | Space physics                                                                                       | Samantha
+| Apr 08 | Saddle point methods for RL  (SBEED)                                                                | Marek
+| Apr 15 | Original work: L1 Linf                                                                              | Bahram
+| Apr 22 | Pick later                                                                                          | Reazul
+| Apr 29 | Distributional heuristic functions                                                                  | Tianyi
+| May 06 | Practice talks                                                                                      | Someone
 
 
 ## Fall 2018
