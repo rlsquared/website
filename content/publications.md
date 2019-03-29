@@ -1,6 +1,16 @@
 Publications and Presentations
 ==============================
 
+### 2019
+
+[Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs](https://arxiv.org/abs/1902.07605), Marek Petrik, Reazul Hasan Russell, arXiv:1902.07605, 2019.
+
+[Fast Feature Selection for Linear Value Function Approximation](/pub/Behzadian2019.pdf), Bahram Behzadian, Soheil Gharatappeh, Marek Petrik, International Conference on Automated Planning and Scheduling (ICAPS) 2019.
+
+[Inverse Reinforcement Learning of Interaction Dynamics from Demonstrations](#), Mostafa Hussein, Momotaz Begum, and Marek Petrik, International Conference on Robotics and Automation (ICRA), 2019.
+
+[Real-time Planning as Decision-making Under Uncertainty](/pub/Mitchell2019.pdf), Andrew Mitchell, Wheeler Ruml, Fabian Spaniol, Joerg Hoffmann, Marek Petrik, AAAI Conference on Artificial Intelligence, 2019.
+
 ### 2018
 
 [Tight Bayesian Ambiguity Sets for Robust MDPs](/pub/Russel2018.pdf), Reazul Hasan Russel, Marek Petrik, Infer2Control NIPS Workshop, 2018.
