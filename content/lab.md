@@ -3,6 +3,27 @@
 
 Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
 
+
+## Summer 2019
+
+**When**: Monday 3:30pm - 4:30pm
+
+**Where**: Kingsbury N242
+
+**Also**: Pizza
+
+| Date  | Topic                                                                                                                           | Presenter|
+| ----- | --------------------------------------------------------------------------------------------------------------------------------| -------- |
+| May 29| [Near-OptimalBayesianAmbiguity Sets](http://www-bcf.usc.edu/~guptavis/Papers/Bayes_DRO_v5_final.pdf)                            | Marek
+| Jun 05| [Uncertainty Analysis of Species Distribution Models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214190)| Saba
+| Jun 12| Robust and risk averse MDPs                                                                                                     | Jason
+| Jun 19| [Deep Reinforcement Learning ...](http://proceedings.mlr.press/v80/lee18b/lee18b.pdf)                                           | Xihong
+| Jun 26|                                                                                                                                 | Bahram
+| Jul 03|                                                                                                                                 | Monkey & Talha
+| Jul 17|                                                                                                                                 | Reazul
+| Jul 24|                                                                                                                                 | Chris or Soheil
+| Jul 31|                                                                                                                                 | Jordan
+
 ## Spring 2019
 
 **When**: Monday 3:30pm - 4:30pm
@@ -20,12 +41,13 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | Mar 11 | **Spring Break**                                                                                    |
 | Mar 18 | Greenhouse and other stuff                                                                          | Sangeeta or Chris
 | Mar 25 | Robustness to confounding factors                                                                   | Monkie
-| Apr 01 | Space physics                                                                                       | Samantha
-| Apr 08 | Saddle point methods for RL  (SBEED)                                                                | Marek
-| Apr 15 | Original work: L1 Linf                                                                              | Bahram
-| Apr 22 | Pick later                                                                                          | Reazul
+| Apr 01 | Bear world                                                                                          | Chris
+| Apr 08 | MMS                                                                                                 | Samantha
+| Apr 15 | Canceled                                                                                            | 
+| Apr 22 | Original results                                                                                    | Reazul
 | Apr 29 | Distributional heuristic functions                                                                  | Tianyi
-| May 06 | Practice talks                                                                                      | Someone
+| May 06 | SBEED                                                                                               | Marek
+
 
 
 ## Fall 2018
