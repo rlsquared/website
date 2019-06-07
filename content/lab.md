@@ -6,7 +6,7 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 ## Summer 2019
 
-**When**: Monday 3:30pm - 4:30pm
+**When**: Wednesday 12:30pm - 1:30pm
 
 **Where**: Kingsbury N242
 
