@@ -8,7 +8,7 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 **When**: Wednesday 12:30pm - 1:30pm
 
-**Where**: Kingsbury N242
+**Where**: Kingsbury N233
 
 **Also**: Pizza
 
