@@ -5,7 +5,7 @@
 ## PhD Students & Postdocs
 
 1. [**Shayan Amani**](https://shayanamani.com/) 
-* [**Bahram Behzadian**](https://scholar.google.com/citations?user=Kp27oZ0AAAAJ&hl=en)
+* [**Bahram Behzadian**](https://buiksat.github.io/)
 * **Jason Carter** (PhD)
 * [**Soheil Garatappeh**](http://www.cs.unh.edu/~sg1147/)
 * **Jia Lin Hau**
