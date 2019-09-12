@@ -12,20 +12,20 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 **Where**: Kingsbury N233
 
 
-| Date   | Topic                   | Presenter 
-| ------ | ----------------------- | --------- 
-| Sep 19 | Paper                   | Bahram 
-| Sep 26 |                         | Shayan  
-| Oct 03 |                         | Jason 
-| Oct 10 |                         | Reazul
-| Oct 17 |                         | Monkie 
-| Oct 24 |                         | Soheil
-| Oct 31 |                         | Xihong 
-| Nov 07 |                         | Chris 
-| Nov 14 |                         | Talha 
-| Nov 21 |                         | Rasel  
-| Nov 28 | *Thanksgiving*          | 
-| Dec 05 |                         | Marek 
+| Date   | Topic                             | Presenter 
+| ------ | --------------------------------- | --------- 
+| Sep 19 | [Fingerprint policy optimization](https://arxiv.org/abs/1805.10662)   | Bahram 
+| Sep 26 |                                   | Shayan  
+| Oct 03 |                                   | Jason 
+| Oct 10 |                                   | Reazul
+| Oct 17 |                                   | Monkie 
+| Oct 24 |                                   | Soheil
+| Oct 31 |                                   | Xihong 
+| Nov 07 |                                   | Chris 
+| Nov 14 |                                   | Talha 
+| Nov 21 |                                   | Rasel  
+| Nov 28 | *Thanksgiving*                    | 
+| Dec 05 |                                   | Marek 
 
 
 ## Summer 2019
