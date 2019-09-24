@@ -7,15 +7,15 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 ## Fall 2019
 
-**When**: Thursday 11:00am - 12:30pm
+**When**: Thursday 11:00am - 12:30pm, some days 10:30 - 12:00
 
 **Where**: Kingsbury N233
 
 
 | Date   | Topic                             | Presenter 
 | ------ | --------------------------------- | --------- 
-| Sep 19 | [Fingerprint policy optimization](https://arxiv.org/abs/1805.10662)   | Bahram 
-| Sep 26 |                                   | Shayan  
+| Sep 19 | [Fingerprint policy optimization](https://arxiv.org/abs/1805.10662)               | Bahram 
+| Sep 26 | [Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1703.02702.pdf) | Shayan  
 | Oct 03 |                                   | Jason 
 | Oct 10 |                                   | Reazul
 | Oct 17 |                                   | Monkie 
