@@ -14,8 +14,8 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 | Date   | Topic                             | Presenter 
 | ------ | --------------------------------- | --------- 
-| Sep 19 | [Fingerprint policy optimization](https://arxiv.org/abs/1805.10662)               | Bahram 
-| Sep 26 | [Robust Adversarial Reinforcement Learning](https://arxiv.org/pdf/1703.02702.pdf) | Shayan  
+| Sep 19 | [Fingerprint policy optimization](https://arxiv.org/abs/1805.10662)           | Bahram 
+| Sep 26 | [Action Robust Reinforcement Learning](https://arxiv.org/pdf/1901.09184.pdf)  | Shayan  
 | Oct 03 |                                   | Jason 
 | Oct 10 |                                   | Reazul
 | Oct 17 |                                   | Monkie 
