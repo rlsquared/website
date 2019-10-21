@@ -16,9 +16,9 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | ------ | --------------------------------- | --------- 
 | Sep 19 | [Fingerprint policy optimization](https://arxiv.org/abs/1805.10662)           | Bahram 
 | Sep 26 | [Action Robust Reinforcement Learning](https://arxiv.org/pdf/1901.09184.pdf)  | Shayan  
-| Oct 03 |                                   | Jason 
-| Oct 10 |                                   | Reazul
-| Oct 17 |                                   | Monkie 
+| Oct 03 | Robust Risk-Averse Sequential Decision Making                                | Jason 
+| Oct 10 | Optimizing Norm-bounded Weighted Ambiguity Sets for Robust MDPs | Reazul 
+| Oct 17 | [POMDPs easy to approximate](https://papers.nips.cc/paper/3291-what-makes-some-pomdp-problems-easy-to-approximate.pdf)                                  | Monkie 
 | Oct 24 |                                   | Soheil
 | Oct 31 |                                   | Xihong 
 | Nov 07 |                                   | Chris 
