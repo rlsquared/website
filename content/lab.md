@@ -19,7 +19,7 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | Oct 03 | Robust Risk-Averse Sequential Decision Making                                | Jason 
 | Oct 10 | Optimizing Norm-bounded Weighted Ambiguity Sets for Robust MDPs | Reazul 
 | Oct 17 | [POMDPs easy to approximate](https://papers.nips.cc/paper/3291-what-makes-some-pomdp-problems-easy-to-approximate.pdf)                                  | Monkie 
-| Oct 24 |                                   | Soheil
+| Oct 24 | [MaxEnt IRL](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)                                  | Soheil
 | Oct 31 |                                   | Xihong 
 | Nov 07 |                                   | Chris 
 | Nov 14 |                                   | Talha 
