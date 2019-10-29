@@ -3,6 +3,18 @@ Publications and Presentations
 
 ### 2019
 
+[Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs](/pub/Russel2019a.pdf), Reazul Hasan Russel, Marek Petrik, Advances in Neural Information Processing Systems (NeurIPS) 2019
+
+[High-Confidence Policy Optimization: Reshaping Ambiguity Sets in Robust MDPs](https://arxiv.org/abs/1910.10786), Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, arXiv:1910.10786
+
+[Robust Risk-Averse Sequential Decision Making](#), Jason Carter, Marek Petrik, NeurIPS 2019 Safety and Robustness in Decision Making Workshop 2019
+
+[Optimizing Norm-bounded Weighted Ambiguity Sets for Robust MDPs](#) Bahram Behzadian, Reazul Hasan Russel, Marek Petrik, NeurIPS 2019 Safety and Robustness in Decision Making Workshop 2019
+
+[Robust Exploration with Tight Bayesian Plausibility Sets](/pub/Russel2019.pdf), Reazul Hasan Russel, Tianyi Gu, Marek Petrik, RLDM 2019
+
+[Robust Pest Management Using Reinforcement Learning](/pub/Siddique2019.pdf), Talha Siddique, Jia Lin Hau, Shadi Atallah, Marek Petrik, RLDM 2019
+
 [Beyond Confidence Regions: Tight Bayesian Ambiguity Sets for Robust MDPs](https://arxiv.org/abs/1902.07605), Marek Petrik, Reazul Hasan Russell, arXiv:1902.07605, 2019.
 
 [Fast Feature Selection for Linear Value Function Approximation](/pub/Behzadian2019.pdf), Bahram Behzadian, Soheil Gharatappeh, Marek Petrik, International Conference on Automated Planning and Scheduling (ICAPS) 2019.
