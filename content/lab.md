@@ -21,8 +21,8 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | Oct 17 | [POMDPs easy to approximate](https://papers.nips.cc/paper/3291-what-makes-some-pomdp-problems-easy-to-approximate.pdf)  | Monkie 
 | Oct 24 | [MaxEnt IRL](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)                                                      | Soheil
 | Oct 31 | [Point-based value iteration: An anytime algorithm for POMDPs](https://www.ijcai.org/Proceedings/03/Papers/147.pdf)     | Xihong 
-| Nov 07 |                                   | Chris 
-| Nov 14 |                                   | Talha 
+| Nov 07 | [Likelihood analysis of species occurrence probability from presence-only data for modelling species distributions](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.2041-210X.2011.00182.x)                                  | Chris 
+| Nov 14 | [Concentration Inequalities for CVaR](https://people.cs.umass.edu/~pthomas/papers/Thomas2019.pdf)                       | Talha 
 | Nov 21 |                                   | Rasel  
 | Nov 28 | *Thanksgiving*                    | 
 | Dec 05 |                                   | Marek 
