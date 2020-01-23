@@ -5,10 +5,12 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 ## Spring 2020
 
+**When**: Wednesday 3:30pm - 4:30pm
+
+**Where**: Kingsbury N242
+
 Ski-trip: Sat Feb 15th, 2020
 
-
-**When**: Wednesday 3:30pm - 4:30pm
 
 | Date   | Topic                    | Presenter |
 | ------ | ------------------------ | --------- |
