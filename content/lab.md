@@ -3,7 +3,29 @@
 
 Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
 
+## Spring 2020
 
+Ski-trip: Sat Feb 15th, 2020
+
+
+**When**: Wednesday 3:30pm - 4:30pm
+
+| Date   | Topic                    | Presenter |
+| ------ | ------------------------ | --------- |
+| Jan 29 |                          | Bahram    |
+| Feb 05 |                          | Monkie    |
+| Feb 12 | Proposal                 | Devin     |
+| Feb 19 |                          | Soheil    |
+| Feb 26 | Proposal                 | Jason     |
+| Mar 04 |                          | Talha     |
+| Mar 11 |                          | Chris     |
+| Mar 18 | *Spring break*           |           |
+| Mar 25 |                          | Shayan    |
+| Apr 01 |                          | Marek     |
+| Apr 08 |                          | Rasel     |
+| Apr 15 | Proposal                 | Reazul    |
+| Apr 22 | Proposal                 | Bahram    |
+| Apr 29 |                          | Devin     |
 
 ## Fall 2019
 
