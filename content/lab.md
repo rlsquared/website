@@ -12,22 +12,22 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 Ski-trip: Sat Feb 15th, 2020
 
 
-| Date   | Topic                    | Presenter |
-| ------ | ------------------------ | --------- |
-| Jan 29 |                          | Bahram    |
-| Feb 05 |                          | Monkie    |
-| Feb 12 | Proposal                 | Devin     |
-| Feb 19 |                          | Soheil    |
-| Feb 26 | Proposal                 | Jason     |
-| Mar 04 |                          | Talha     |
-| Mar 11 |                          | Chris     |
-| Mar 18 | *Spring break*           |           |
-| Mar 25 |                          | Shayan    |
-| Apr 01 |                          | Marek     |
-| Apr 08 |                          | Rasel     |
-| Apr 15 | Proposal                 | Reazul    |
-| Apr 22 | Proposal                 | Bahram    |
-| Apr 29 |                          | Devin     |
+| Date   | Topic                                                                                                                                                                                 | Presenter |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Jan 29 | [Intrinsically Efficient ... Off-Policy Evaluation](https://papers.nips.cc/paper/8594-intrinsically-efficient-stable-and-bounded-off-policy-evaluation-for-reinforcement-learning.pdf)| Bahram    |
+| Feb 05 | [Percentile Optimization for MDPs](https://pubsonline.informs.org/doi/abs/10.1287/opre.1080.0685)                                                                                     | Monkie    |
+| Feb 12 | Proposal                                                                                                                                                                              | Devin     |
+| Feb 19 |                                                                                                                                                                                       | Soheil    |
+| Feb 26 | Proposal                                                                                                                                                                              | Jason     |
+| Mar 04 |                                                                                                                                                                                       | Talha     |
+| Mar 11 |                                                                                                                                                                                       | Chris     |
+| Mar 18 | *Spring break*                                                                                                                                                                        |           |
+| Mar 25 |                                                                                                                                                                                       | Shayan    |
+| Apr 01 |                                                                                                                                                                                       | Marek     |
+| Apr 08 |                                                                                                                                                                                       | Rasel     |
+| Apr 15 | Proposal                                                                                                                                                                              | Reazul    |
+| Apr 22 | Proposal                                                                                                                                                                              | Bahram    |
+| Apr 29 |                                                                                                                                                                                       | Devin     |
 
 ## Fall 2019
 
