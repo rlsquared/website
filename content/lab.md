@@ -16,10 +16,10 @@ Ski-trip: Sat Feb 15th, 2020
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | Jan 29 | [Intrinsically Efficient ... Off-Policy Evaluation](https://papers.nips.cc/paper/8594-intrinsically-efficient-stable-and-bounded-off-policy-evaluation-for-reinforcement-learning.pdf)| Bahram    |
 | Feb 05 | [Percentile Optimization for MDPs](https://pubsonline.informs.org/doi/abs/10.1287/opre.1080.0685)                                                                                     | Monkie    |
-| Feb 12 | Proposal                                                                                                                                                                              | Devin     |
-| Feb 19 |                                                                                                                                                                                       | Soheil    |
-| Feb 26 | Proposal                                                                                                                                                                              | Jason     |
-| Mar 04 |                                                                                                                                                                                       | Talha     |
+| Feb 12 | Proposal: Robust POMDPs                                                                                                                                                               | Devin     |
+| Feb 19 | Robust IRL                                                                                                                                                                            | Soheil    |
+| Feb 26 | Proposal: Spruce Budworm                                                                                                                                                              | Jason     |
+| Mar 04 | [Policy Gradient for Coherent Risk Measures](https://arxiv.org/pdf/1502.03919.pdf)                                                                                                    | Talha     |
 | Mar 11 |                                                                                                                                                                                       | Chris     |
 | Mar 18 | *Spring break*                                                                                                                                                                        |           |
 | Mar 25 |                                                                                                                                                                                       | Shayan    |
