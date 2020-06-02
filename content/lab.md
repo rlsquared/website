@@ -3,6 +3,26 @@
 
 Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
 
+## Summer 2020
+
+**When**: Wednesday 9am - 10am
+
+**Where**: Zoom (mailing list for link)
+
+| Date    | Topic                                    | Presenter        |
+| ------- | ---------------------------------------- | ---------------- |
+| 5/27    | Inverse RL and Robustness                | Soheil           |
+| 6/03    | Optimizer's Curse                        | Lynette          |
+| 6/10    |                                          | Monkie           |
+| 6/17    |                                          | Saba             |
+| 6/24    |                                          | Chris            |
+| 7/01    |                                          | Talha            |
+| 7/08    |                                          | Devin            |
+| 7/15    |                                          | Bahram           |
+| 7/22    |                                          | Mostafa          |
+| 7/29    |                                          | Elita            |
+
+
 ## Spring 2020
 
 **When**: Wednesday 3:30pm - 4:30pm
@@ -20,14 +40,10 @@ Ski-trip: Sat Feb 15th, 2020
 | Feb 19 | Robust IRL                                                                                                                                                                            | Soheil    |
 | Feb 26 | Proposal: Spruce Budworm                                                                                                                                                              | Jason     |
 | Mar 04 | [Policy Gradient for Coherent Risk Measures](https://arxiv.org/pdf/1502.03919.pdf)                                                                                                    | Talha     |
-| Mar 11 |                                                                                                                                                                                       | Chris     |
+| Mar 11 | Poly-animals                                                                                                                                                                                      | Chris     |
 | Mar 18 | *Spring break*                                                                                                                                                                        |           |
-| Mar 25 |                                                                                                                                                                                       | Shayan    |
-| Apr 01 |                                                                                                                                                                                       | Marek     |
-| Apr 08 |                                                                                                                                                                                       | Rasel     |
-| Apr 15 | Proposal                                                                                                                                                                              | Reazul    |
-| Apr 22 | Proposal                                                                                                                                                                              | Bahram    |
-| Apr 29 |                                                                                                                                                                                       | Devin     |
+
+Coronavirus .....
 
 ## Fall 2019
 
