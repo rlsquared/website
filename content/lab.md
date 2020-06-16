@@ -13,8 +13,8 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | ------- | ---------------------------------------- | ---------------- |
 | 5/27    | Inverse RL and Robustness                | Soheil           |
 | 6/03    | Optimizer's Curse                        | Lynette          |
-| 6/10    |                                          | Monkie           |
-| 6/17    |                                          | Saba             |
+| 6/10    | [Risk and Robustness CVaR](https://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach.pdf)                                         | Monkie           |
+| 6/17    | [Deep RL and Energy](https://arxiv.org/abs/1702.08165)   | Saba             |
 | 6/24    |                                          | Chris            |
 | 7/01    |                                          | Talha            |
 | 7/08    |                                          | Devin            |
