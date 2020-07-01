@@ -15,8 +15,8 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | 6/03    | Optimizer's Curse                        | Lynette          |
 | 6/10    | [Risk and Robustness CVaR](https://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach.pdf)                                         | Monkie           |
 | 6/17    | [Deep RL and Energy](https://arxiv.org/abs/1702.08165)   | Saba             |
-| 6/24    |                                          | Chris            |
-| 7/01    |                                          | Talha            |
+| 6/24    | Polyanimals project                      | Chris            |
+| 7/01    | [Interpretable off-policy eval](https://arxiv.org/pdf/2002.03478.pdf)      | Elita            |
 | 7/08    |                                          | Devin            |
 | 7/15    |                                          | Bahram           |
 | 7/22    |                                          | Mostafa          |
