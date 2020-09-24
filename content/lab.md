@@ -3,6 +3,26 @@
 
 Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
 
+## Fall 2020
+
+**When**: Tuesday 12pm
+
+**Where**: Zoom
+
+
+| Date    | Topic                                    | Presenter        |
+| ------- | ---------------------------------------- | ---------------- |
+| 09/22   | [Accelerated Value Iteration](https://arxiv.org/abs/1905.09963)  | Marek
+| 09/29   | [Bias and Variance Approximation in Value Function Estimates](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1060.0614)     | Monkie   
+| 10/06   |                                          | Soheil
+| 10/13   |                                          | Colin   
+| 10/20   | [State aggregation learning](http://arxiv.org/abs/1811.02619)     | Sepideh
+| 10/27   | Proposal?                                | Devin
+| 11/03   | Proposal practice                        | Reazul
+| 11/10   | Application!                             | Marek
+| 11/17   | Proposal practice                        | Chris
+| 11/24   | Proposal practice                        | Bahram
+
 ## Summer 2020
 
 **When**: Wednesday 9am - 10am
@@ -19,8 +39,8 @@ Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | 7/01    | [Interpretable off-policy eval](https://arxiv.org/pdf/2002.03478.pdf)      | Elita            |
 | 7/08    | Lasso                                    | Devin            |
 | 7/15    | [Safe Policy Improvement](https://arxiv.org/abs/1712.06924) | Bahram           |
-| 7/22    |                                          | Mostafa          |
-| 7/29    |                                          | Elita            |
+| 7/22    | Inverse RL                               | Mostafa          |
+| 7/29    | Review                                   | Marek            |
 
 
 ## Spring 2020
