@@ -8,27 +8,32 @@
 * [**Soheil Garatappeh**](http://www.cs.unh.edu/~sg1147/)
 * **Jia Lin Hau**
 * **Saba Kadady**
+* **Elita Lobo**
 * [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) 
 
 ## MS Students
 
-1. **Christopher Baughman** 
+* **Christopher Baughman** 
 * [**Lynette Davis**](https://ccom.unh.edu/user/ldavis)
-* [**Shayan Amani**](https://shayanamani.com/) 
-* **Jason Carter** (MS)
+* **Devin Thomas**
+* **Lisa Scott** (with John Gunn)
 
 ## Undergraduate Students
 
 * **Colin Small** (with [Matthew Argall](https://mypages.unh.edu/argallmr/bio), space physics)
+* **Gerard Donahue**
+* **Brendan Crowe** (with Momotaz Begum)
 
 ## Affiliate Members
 
-* **Elita Lobo**
 
 ## Former Members
 
+* **Adeoye Ganiyu** (MS)
+* **Jason Carter** 
+* [**Shayan Amani**](https://shayanamani.com/)  (MS)
 * **Shannon Stag** (Civil engineering with [Weiwei Mo](https://ceps.unh.edu/person/weiwei-mo))
-* **Ram Gautam**
+* **Ram Gautam** (MS)
 * **Samantha Piatt** (undergraduate, with [Matthew Argall](https://mypages.unh.edu/argallmr/bio))
 * [**Tim Szewczyk**](https://scholar.google.com/citations?user=cS4sYDAAAAAJ&hl=en) (2018-2019, Postdoc/natural resources with [Jenica Allen](https://scholar.google.com/citations?user=fSoN2iYAAAAJ&hl=en))
 * **Talha Siddique** (MSc 2019, Natural resources with [Shadi Atallah](https://colsa.unh.edu/person/shadi-s-atallah))

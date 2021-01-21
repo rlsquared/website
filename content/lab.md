@@ -1,14 +1,51 @@
 
 # Group Meetings
 
-Sing up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
+Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
+
+## Spring 2021
+
+**When**: Thursday 9:30 - 10:30
+
+**Where**: Zoom
+
+| Date    | Topic                                    | Presenter        |
+| ------- | ---------------------------------------- | ---------------- |
+| 1/28    |                                          | Soheil           |
+| 2/04    |                                          | Saba             |
+| 2/11    |                                          | Gerry            |
+| 2/18    |                                          | Elita            |
+| 2/25    |                                          | Monkie           |
+| 3/04    |                                          | Bahram           |
+| 3/11    |                                          | Reazul           |
+| 3/18    |                                          | Devin            |
+| 3/25    |                                          | Deepak           |
+| 4/01    |                                          | Colin            |
+| 4/08    |                                          | Reazul           |
+| 4/15    |                                          | Elita            |
+| 4/22    |                                          | Bahram           |
+| 4/29    |                                          | Monkie           |
+| 5/06    |                                          | Soheil           |
+| 5/13    |                                          |                  |
+| 5/20    |                                          |                  |
+
+
+### Progress update meetings: 
+
+**When**: Tuesday 9:30 - 11:30
+
+1. Short update: Anyone present: 5 minutes
+2. Long update: up to 20 minutes including discussion: 
+
+Long updates: even weeks: Elita, Monkie, Reazul, odd weeks: Bahram, Soheil, Devin
+
+
 
 ## Fall 2020
 
 **When**: Tuesday 12pm
 
 **Where**: Zoom
-
 
 | Date    | Topic                                    | Presenter        |
 | ------- | ---------------------------------------- | ---------------- |
