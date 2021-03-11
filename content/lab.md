@@ -17,7 +17,7 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | 2/18    | [Policy poisoning in batch RL](https://arxiv.org/abs/1910.05821)     | Elita    |
 | 2/25    | [Distributionally Robust MDPs](https://www.jstor.org/stable/23256624)| Monkie   |
 | 3/04    | [Offline RL](https://arxiv.org/abs/2005.01643)                       | Bahram   |
-| 3/11    | [Epistemic Risk-Senisitive RL](https://arxiv.org/pdf/1906.06273.pdf) | Reazul   |
+| 3/11    | [Epistemic Risk-Sensitive RL](https://arxiv.org/pdf/1906.06273.pdf) | Reazul   |
 | 3/18    |                                                                      | Devin    |
 | 3/25    |                                                                      | Deepak   |
 | 4/01    |                                                                      | Colin    |
