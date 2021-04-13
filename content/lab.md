@@ -21,9 +21,9 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | 3/18    | Break                                                                       |          |
 | 3/25    | Break                                                                       |          |
 | 4/01    | [Reward machines](http://proceedings.mlr.press/v80/icarte18a/icarte18a.pdf) | Colin    |
-| 4/08    |                                                                             | Reazul   |
-| 4/15    |                                                                             | Saba     |
-| 4/22    |                                                                             | Bahram   |
+| 4/08    | Break                                                                       |          |
+| 4/15    | [Resource-constrained DRL](https://ojs.aaai.org/index.php/ICAPS/article/view/3528/3396), [Reinforcement Learning with Convex Constraints](https://papers.nips.cc/paper/2019/file/873be0705c80679f2c71fbf4d872df59-Paper.pdf) | Elita    |
+| 4/22    |                                                                             | Saba     |
 | 4/29    |                                                                             | Monkie   |
 | 5/06    |                                                                             | Soheil   |
 | 5/13    |                                                                             |          |
