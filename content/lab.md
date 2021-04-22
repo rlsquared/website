@@ -9,26 +9,28 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 **Where**: Zoom
 
-| Date    | Topic                                                                       | Presenter|
-| ------- | --------------------------------------------------------------------------- | -------- |
-| 1/28    | [Algorithmic imitation learning](https://doi.org/10.1561/2300000053)        | Soheil   |
-| 2/04    | Open problem: Convex formulation RMDP                                       | Marek    |
-| 2/11    | [BROIL](https://arxiv.org/abs/2007.12315)                                   | Gerry    |
-| 2/18    | [Policy poisoning in batch RL](https://arxiv.org/abs/1910.05821)            | Elita    |
-| 2/25    | [Distributionally Robust MDPs](https://www.jstor.org/stable/23256624)       | Monkie   |
-| 3/04    | [Offline RL](https://arxiv.org/abs/2005.01643)                              | Bahram   |
-| 3/11    | [Epistemic Risk-Sensitive RL](https://arxiv.org/pdf/1906.06273.pdf)         | Reazul   |
-| 3/18    | Break                                                                       |          |
-| 3/25    | Break                                                                       |          |
-| 4/01    | [Reward machines](http://proceedings.mlr.press/v80/icarte18a/icarte18a.pdf) | Colin    |
-| 4/08    | Break                                                                       |          |
-| 4/15    | [Resource-constrained DRL](https://ojs.aaai.org/index.php/ICAPS/article/view/3528/3396), [Reinforcement Learning with Convex Constraints](https://papers.nips.cc/paper/2019/file/873be0705c80679f2c71fbf4d872df59-Paper.pdf) | Elita    |
-| 4/22    |                                                                             | Saba     |
-| 4/29    |                                                                             | Monkie   |
-| 5/06    |                                                                             | Soheil   |
-| 5/13    |                                                                             |          |
-| 5/20    |                                                                             |          |
+| Date | Topic                                                                      | Presenter|
+| ---- | -------------------------------------------------------------------------- | -------- |
+| 1/28 | [Algorithmic imitation learning](https://doi.org/10.1561/2300000053)       | Soheil   |
+| 2/04 | Open problem: Convex formulation RMDP                                      | Marek    |
+| 2/11 | [BROIL](https://arxiv.org/abs/2007.12315)                                  | Gerry    |
+| 2/18 | [Policy poisoning in batch RL](https://arxiv.org/abs/1910.05821)           | Elita    |
+| 2/25 | [Distributionally Robust MDPs](https://www.jstor.org/stable/23256624)      | Monkie   |
+| 3/04 | [Offline RL](https://arxiv.org/abs/2005.01643)                             | Bahram   |
+| 3/11 | [Epistemic Risk-Sensitive RL](https://arxiv.org/pdf/1906.06273.pdf)        | Reazul   |
+| 3/18 | Break                                                                      |          |
+| 3/25 | Break                                                                      |          |
+| 4/01 | [Reward machines](http://proceedings.mlr.press/v80/icarte18a/icarte18a.pdf)| Colin    |
+| 4/08 | Break                                                                      |          |
+| 4/15 | [Resource-constrained DRL](https://ojs.aaai.org/index.php/ICAPS/article/view/3528/3396)  | Elita    |
+| 4/22 | [Statistical limits of offline RL](https://arxiv.org/abs/2010.11895)       | Saba     |
+| 4/29 | Break                                                                      |          |
+| 5/06 |                                                                            | Gerry    |
+| 5/13 |                                                                            |          |
 
+Other papers:
+
+ - [Reinforcement Learning with Convex Constraints](https://papers.nips.cc/paper/2019/file/873be0705c80679f2c71fbf4d872df59-Paper.pdf)
 
 ### Progress update meetings: 
 
