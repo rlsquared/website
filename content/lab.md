@@ -25,8 +25,7 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | 4/15 | [Resource-constrained DRL](https://ojs.aaai.org/index.php/ICAPS/article/view/3528/3396)  | Elita    |
 | 4/22 | [Statistical limits of offline RL](https://arxiv.org/abs/2010.11895)       | Saba     |
 | 4/29 | Break                                                                      |          |
-| 5/06 |                                                                            | Gerry    |
-| 5/13 |                                                                            |          |
+| 5/06 | [IRL via Classificiation](http://www.lifl.fr/~pietquin/pdf/NIPS_2012_EKBPMGOP.pdf)   | Gerry    |
 
 Other papers:
 
