@@ -33,7 +33,7 @@ Publications and Presentations
 
 [Policy Conditioned Uncertainty Sets for Robust Markov Decision Processes](#), Andrea Tirinzoni, Xiangli Chen, Marek Petrik, Brian Ziebart, To appear at NIPS 2018.
 
-[Fast Bellman Updates for Robust MDPs](/pub/Ho2018.pdf), Chin Pang Ho, Marek Petrik, Wolfram Wiesemann, *International Conference on Machine Learning (ICML)*, 2018. \[[Full Paper](/pub/Ho2018_full.pdf)\], \[[Slides](/pub/Ho2018_slides.pdf)\].
+[Fast Bellman Updates for Robust MDPs](/pub/Ho2018.pdf), Chin Pang Ho, Marek Petrik, Wolfram Wiesemann, *International Conference on Machine Learning (ICML)*, 2018. \[[Full Paper](/pub/Ho2018_full.pdf)\], \[[Slides](/pub/Ho2018_slides.pdf)\], \[[Code](https://github.com/marekpetrik/craam2/blob/master/craam/optimization/bisection.hpp#L242)\].
 
 [Feature Selection by Singular Value Decomposition for Reinforcement Learning](/pub/Behzadian2018a.pdf), Bahram Behzadian, Marek Petrik, Prediction and Generative Modeling Workshop at IJCAI/ICML, 2018.
 

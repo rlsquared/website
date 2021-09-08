@@ -3,6 +3,30 @@
 
 Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
 
+## Fall 2021
+
+**When**: Wednesday 2:00 - 3:00
+
+**Where**: Zoom
+
+
+| Date   | Topic         | Presenter   
+| ------ | ------------- | -------------
+|Sep 15  | Proposal practice talk              | Bahram       
+|Sep 22  |               | Soheil         
+|Sep 29  |               | Monkie        
+|Oct 06  |               | Saba           
+|Oct 13  |               | Chris          
+|Oct 20  |               | Gerry          
+|Oct 27  |               | Elita          
+|Nov 03  |               | Marek          
+|Nov 10  |               | Daniel         
+|Nov 17  |               | Xihong         
+|Nov 24  |               | Thanksgiving   
+|Dec 01  |               | Devin          
+|Dec 08  |               | Neurips        
+
+
 ## Spring 2021
 
 **When**: Thursday 9:30 - 10:30
