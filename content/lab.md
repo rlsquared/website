@@ -7,24 +7,24 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 **When**: Wednesday 2:00 - 3:00
 
-**Where**: Zoom
+**Where**: Kingsbury N242, and [Zoom](https://unh.zoom.us/j/94231222801)
 
 
-| Date   | Topic                                          | Presenter   
-| ------ | ---------------------------------------------- | -------------
-|Sep 15  | Proposal practice talk                         | Bahram       
-|Sep 22  | [SQIL](https://arxiv.org/pdf/1905.11108.pdf)   | Soheil         
-|Sep 29  |                                                | Monkie        
-|Oct 06  |                                                | Saba           
-|Oct 13  |                                                | Chris          
-|Oct 20  |                                                | Gerry          
-|Oct 27  |                                                | Elita          
-|Nov 03  |                                                | Marek          
-|Nov 10  |                                                | Daniel         
-|Nov 17  |                                                | Xihong         
-|Nov 24  |                                                | Thanksgiving   
-|Dec 01  |                                                | Devin          
-|Dec 08  |                                                | Neurips        
+| Date   | Topic                                                                                                | Presenter   
+| ------ | ---------------------------------------------------------------------------------------------------- | -------------
+|Sep 15  | Proposal practice talk                                                                               | Bahram       
+|Sep 22  | [SQIL](https://arxiv.org/pdf/1905.11108.pdf)                                                         | Soheil         
+|Sep 29  | [Stochastic programs with entropic risk](http://www.optimization-online.org/DB_FILE/2020/08/7984.pdf)| Monkie        
+|Oct 06  | [Generealized IRL for linear MDPs](http://ecmlpkdd2017.ijs.si/papers/paperID171.pdf)                 | Saba           
+|Oct 13  |                                                                                                      | Chris          
+|Oct 20  |                                                                                                      | Gerry          
+|Oct 27  |                                                                                                      | Elita          
+|Nov 03  |                                                                                                      | Marek          
+|Nov 10  |                                                                                                      | Daniel         
+|Nov 17  |                                                                                                      | Xihong         
+|Nov 24  |                                                                                                      | Thanksgiving   
+|Dec 01  |                                                                                                      | Devin          
+|Dec 08  |                                                                                                      | Neurips        
 
 
 ## Spring 2021
