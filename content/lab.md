@@ -7,7 +7,7 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 **When**: Wednesday 2:00 - 3:00
 
-**Where**: Kingsbury N242, and [Zoom](https://unh.zoom.us/j/94231222801)
+**Where**: Kingsbury N233, and [Zoom](https://unh.zoom.us/j/94231222801)
 
 
 | Date   | Topic                                                                                                | Presenter   
