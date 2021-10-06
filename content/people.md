@@ -9,26 +9,27 @@
 * **Jia Lin Hau**
 * **Saba Kadady**
 * **Elita Lobo**
-* [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) 
+* **Xihong Su**
 
 ## MS Students
 
-* **Christopher Baughman** 
-* [**Lynette Davis**](https://ccom.unh.edu/user/ldavis)
+* **Christopher Baughman**
 * **Devin Thomas**
-* **Lisa Scott** (with John Gunn)
 
 ## Undergraduate Students
 
-* **Colin Small** (with [Matthew Argall](https://mypages.unh.edu/argallmr/bio), space physics)
 * **Gerard Donahue**
-* **Brendan Crowe** (with Momotaz Begum)
 
-## Affiliate Members
+## Graduated PhD students
+
+* [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) (PhD, facebook research)
 
 
 ## Former Members
 
+* **Colin Small** (with [Matthew Argall](https://mypages.unh.edu/argallmr/bio), space physics)
+* **Brendan Crowe** (with Momotaz Begum)
+* [**Lynette Davis**](https://ccom.unh.edu/user/ldavis)
 * **Adeoye Ganiyu** (MS)
 * **Jason Carter** 
 * [**Shayan Amani**](https://shayanamani.com/)  (MS)
