@@ -9,7 +9,8 @@
 * **Jia Lin Hau**
 * **Saba Kadady**
 * **Elita Lobo**
-* **Xihong Su**
+* **Xihong Su** (with Momotaz Begum)
+* **Lisa Scott** (NRESS with John Gunn)
 
 ## MS Students
 
@@ -23,7 +24,6 @@
 ## Graduated PhD students
 
 * [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) (PhD, facebook research)
-
 
 ## Former Members
 
