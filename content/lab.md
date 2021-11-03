@@ -19,7 +19,7 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 |Oct 13  | Canceled                                                                                                           |           
 |Oct 20  | [Linearly solvable MDPs](https://proceedings.neurips.cc/paper/2006/file/d806ca13ca3449af72a1ea5aedbed26a-Paper.pdf)| Marek
 |Oct 27  | [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002)                   | Elita          
-|Nov 03  |                                                                                                                    | Gerry/Marek    
+|Nov 03  | [Gravitational Pull of Softmax](https://proceedings.neurips.cc/paper/2020/file/f1cf2a082126bf02de0b307778ce73a7-Paper.pdf)   | Gerry    
 |Nov 10  |                                                                                                                    | Daniel         
 |Nov 17  |                                                                                                                    | Xihong         
 |Nov 24  |                                                                                                                    | Thanksgiving   
