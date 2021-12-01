@@ -23,7 +23,7 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 |Nov 10  | [Optimality of Policy Gradient](https://arxiv.org/pdf/1908.00261.pdf)                                              | Soheil
 |Nov 17  | [Multimodel MDP](http://www.optimization-online.org/DB_FILE/2018/01/6434.pdf)                                      | Xihong         
 |Nov 24  |                                                                                                                    | Thanksgiving   
-|Dec 01  |                                                                                                                    | Daniel          
+|Dec 01  | [Accelerated VI](http://proceedings.mlr.press/v139/farahmand21a/farahmand21a.pdf)                                  | Harrison          
 |Dec 08  |                                                                                                                    | Neurips        
 
 
