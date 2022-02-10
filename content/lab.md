@@ -3,6 +3,29 @@
 
 Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
 
+## Spring 2022
+
+**When**: Thursday 9:00am - 10:00am
+
+**Where**: Kingsbury N233, and [Zoom](https://unh.zoom.us/j/94231222801)
+
+| Date   | Topic                                                    | Presenter                |
+|--------|----------------------------------------------------------|--------------------------|
+| Feb 10 |                                                          | General meeting          |
+| Feb 17 |                                                          | Soheil and Monkie        |
+| Feb 24 |                                                          | Harrison                 |
+| Mar 03 |                                                          | Soheil                   |
+| Mar 10 |                                                          | Monkie                   |
+| Mar 17 | Spring break                                             |                          |
+| Mar 24 |                                                          | Bahram                   |
+| Mar 31 |                                                          | Elita                    |
+| Apr 07 |                                                          | Gerry                    |
+| Apr 14 |                                                          | Marek                    |
+| Apr 21 |                                                          | Bahram                   |
+| Apr 28 |                                                          | Saba                     |
+| May 05 |                                                          | Xihong                   |
+
+
 ## Fall 2021
 
 **When**: Wednesday 2:00 - 3:00
@@ -15,7 +38,7 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 |Sep 15  | Proposal practice talk                                                                                             | Bahram       
 |Sep 22  | [SQIL](https://arxiv.org/pdf/1905.11108.pdf)                                                                       | Soheil         
 |Sep 29  | [Stochastic programs with entropic risk](http://www.optimization-online.org/DB_FILE/2020/08/7984.pdf)              | Monkie        
-|Oct 06  | [Generealized IRL for linear MDPs](http://ecmlpkdd2017.ijs.si/papers/paperID171.pdf)                               | Saba           
+|Oct 06  | [Generalized IRL for linear MDPs](http://ecmlpkdd2017.ijs.si/papers/paperID171.pdf)                               | Saba           
 |Oct 13  | Canceled                                                                                                           |           
 |Oct 20  | [Linearly solvable MDPs](https://proceedings.neurips.cc/paper/2006/file/d806ca13ca3449af72a1ea5aedbed26a-Paper.pdf)| Marek
 |Oct 27  | [Optimal Off-Policy Evaluation from Multiple Logging Policies](https://arxiv.org/abs/2010.11002)                   | Elita          
