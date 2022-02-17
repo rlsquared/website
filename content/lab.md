@@ -7,18 +7,18 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 **When**: Thursday 9:00am - 10:00am
 
-**Where**: Kingsbury N233, and [Zoom](https://unh.zoom.us/j/94231222801)
+**Where**: Kingsbury N233
 
 | Date   | Topic                                                    | Presenter                |
 |--------|----------------------------------------------------------|--------------------------|
-| Feb 10 |                                                          | General meeting          |
-| Feb 17 |                                                          | Soheil and Monkie        |
+| Feb 10 | General discussion                                       | General meeting          |
+| Feb 17 | Practice talk                                            | Monkie        |
 | Feb 24 |                                                          | Harrison                 |
-| Mar 03 |                                                          | Soheil                   |
+| Mar 03 |                                                          | Elita                    |
 | Mar 10 |                                                          | Monkie                   |
 | Mar 17 | Spring break                                             |                          |
 | Mar 24 |                                                          | Bahram                   |
-| Mar 31 |                                                          | Elita                    |
+| Mar 31 |                                                          | Soheil                   |
 | Apr 07 |                                                          | Gerry                    |
 | Apr 14 |                                                          | Marek                    |
 | Apr 21 |                                                          | Bahram                   |
