@@ -13,11 +13,11 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 |--------|----------------------------------------------------------|--------------------------|
 | Feb 10 | General discussion                                       | General meeting          |
 | Feb 17 | Practice talk                                            | Monkie        |
-| Feb 24 |                                                          | Harrison                 |
-| Mar 03 |                                                          | Elita                    |
-| Mar 10 |                                                          | Monkie                   |
+| Feb 24 | [On the convergence of policy iteration](https://proceedings.mlr.press/v130/bhandari21a.html)  | Harrison                 |
+| Mar 03 | Poisoning policy evaluation                              | Elita                    |
+| Mar 10 | RASR                                                     | Monkie                   |
 | Mar 17 | Spring break                                             |                          |
-| Mar 24 |                                                          | Bahram                   |
+| Mar 24 | [Variational Bayesian RL](https://proceedings.neurips.cc/paper/2021/hash/edb446b67d69adbfe9a21068982000c2-Abstract.html)    | Bahram                   |
 | Mar 31 |                                                          | Soheil                   |
 | Apr 07 |                                                          | Gerry                    |
 | Apr 14 |                                                          | Marek                    |
