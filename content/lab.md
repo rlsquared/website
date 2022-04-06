@@ -18,9 +18,9 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 | Mar 10 | RASR                                                     | Monkie                   |
 | Mar 17 | Spring break                                             |                          |
 | Mar 24 | [Variational Bayesian RL](https://proceedings.neurips.cc/paper/2021/hash/edb446b67d69adbfe9a21068982000c2-Abstract.html)    | Bahram                   |
-| Mar 31 |                                                          | Soheil                   |
-| Apr 07 |                                                          | Gerry                    |
-| Apr 14 |                                                          | Marek                    |
+| Mar 31 | [Entropic MDPs](https://arxiv.org/abs/1705.07798)                                                                           | Marek                    |
+| Apr 07 | [Near Optimal Bayesian Ambiguity](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3140)                                | Marek and Elita          |
+| Apr 14 |                                                          | Yash Chandak             |
 | Apr 21 |                                                          | Bahram                   |
 | Apr 28 |                                                          | Saba                     |
 | May 05 |                                                          | Xihong                   |
