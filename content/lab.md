@@ -5,7 +5,7 @@ Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.l
 
 ## Spring 2022
 
-**When**: Thursday 9:00am - 10:00am
+**When**: Thursday 10:00am - 11:00am
 
 **Where**: Kingsbury N233
 
