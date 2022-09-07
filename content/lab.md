@@ -1,7 +1,20 @@
 
 # Group Meetings
 
-Sign up for the mailing list [here](https://lists.unh.edu/mailman/listinfo/rlr.lab).
+If you would like to get notifications about the group meetings and other matters, please email [Marek.Petrik@unh.edu](mailto:Marek.Petrik@unh.edu) to be added to the mailing list.
+
+## Fall 2022
+
+TBD
+
+
+## Summer 2022
+
+**When**: Thursday 12:00pm - 1:00pm
+
+**Where**: Kingsbury N233
+
+Reading convex optimization by Boyd. 
 
 ## Spring 2022
 
