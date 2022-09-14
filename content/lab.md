@@ -9,8 +9,10 @@ If you would like to get notifications about the group meetings and other matter
 
 **Where**: Zoom: https://unh.zoom.us/j/5833938643 
 
-| Date   | Topic                                                                                                              | Presenter   
-| ------ | ------------------------------------------------------------------------------------------------------------------ | -------------
+| Date   | Topic                  | Presenter |
+|--------|------------------------|-----------|
+| Sep 15 | Organizational meeting | Marek     |
+|        |                        |           |
 
 ## Summer 2022
 
