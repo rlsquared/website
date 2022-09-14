@@ -4,29 +4,32 @@
 
 ## PhD Students 
 
-* [**Bahram Behzadian**](https://buiksat.github.io/)
-* [**Soheil Garatappeh**](http://www.cs.unh.edu/~sg1147/)
 * **Jia Lin Hau**
 * **Saba Kadady**
-* **Elita Lobo**
-* **Xihong Su** (with Momotaz Begum)
+* **Xihong Su** 
+* **Gersi Doko**
 * **Lisa Scott** (NRESS with John Gunn)
 
 ## MS Students
 
 * **Christopher Baughman**
-* **Devin Thomas**
+* **Francesco Mikulis-Borsoi**
 
 ## Undergraduate Students
 
-* **Gerard Donahue**
+* **Keith Badger**
 
 ## Graduated PhD students
 
-* [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) (PhD, facebook research)
+* [**Reazul Hasan Russel**](http://cs.unh.edu/~rr1042/reazul.html) (PhD) at Facebook
+* [**Bahram Behzadian**](https://buiksat.github.io/) (PhD) at Facebook
 
 ## Former Members
 
+* **Harrison Geissler** PhD at UMass Amherst
+* **Gerard Donahue** PhD at Northeastern
+* **Elita Lobo** moved to UMass Amherst
+* [**Soheil Garatappeh**](http://www.cs.unh.edu/~sg1147/) (MS) moved to UMaine
 * **Colin Small** (with [Matthew Argall](https://mypages.unh.edu/argallmr/bio), space physics)
 * **Brendan Crowe** (with Momotaz Begum)
 * [**Lynette Davis**](https://ccom.unh.edu/user/ldavis)

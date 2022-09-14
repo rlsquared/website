@@ -5,8 +5,12 @@ If you would like to get notifications about the group meetings and other matter
 
 ## Fall 2022
 
-TBD
+**When**: 1pm - 2pm
 
+**Where**: Zoom: https://unh.zoom.us/j/5833938643 
+
+| Date   | Topic                                                                                                              | Presenter   
+| ------ | ------------------------------------------------------------------------------------------------------------------ | -------------
 
 ## Summer 2022
 
