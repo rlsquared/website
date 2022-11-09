@@ -9,18 +9,18 @@ If you would like to get notifications about the group meetings and other matter
 
 **Where**: Zoom: https://unh.zoom.us/j/5833938643 
 
-| Date   | Topic                                                                 | Presenter |
-|--------|-----------------------------------------------------------------------|-----------|
-| Sep 15 | Organizational meeting                                                | Marek     |
-| Sep 22 | Solving Multi-model MDPs                                              | Xihong    |
-| Sep 29 | Markov Decision Processes with Average-Value-at-Risk criteria         | Monkie    |
-| Oct 06 | Game-theoretic approach to apprenticeship learning                    | Gersi     |
-| Oct 13 | On the linear convergence of policy gradient methods for finite MDPs  | Keith     |
-| Oct 20 | Risk-Averse Decision Making Under Uncertainty                         | Saba      |
-| Oct 27 | A Game-Theoretic Perspective on Risk-Sensitive Reinforcement Learning | Harrison  |
-| Nov 03 | *No meeting*                                                          | Marek     |
-| Nov 10 | Quantile Markov Decision Processes                                    | Monkie    |
-|        |                                                                       |           |
+| Date   | Topic                                                                      | Presenter |
+|--------|----------------------------------------------------------------------------|-----------|
+| Sep 15 | Organizational meeting                                                     | Marek     |
+| Sep 22 | Solving Multi-model MDPs                                                   | Xihong    |
+| Sep 29 | Markov Decision Processes with Average-Value-at-Risk criteria              | Monkie    |
+| Oct 06 | Game-theoretic approach to apprenticeship learning                         | Gersi     |
+| Oct 13 | On the linear convergence of policy gradient methods for finite MDPs       | Keith     |
+| Oct 20 | Risk-Averse Decision Making Under Uncertainty                              | Saba      |
+| Oct 27 | A Game-Theoretic Perspective on Risk-Sensitive Reinforcement Learning      | Harrison  |
+| Nov 03 | *No meeting*                                                               | Marek     |
+| Nov 10 | [Quantile Markov Decision Processes](https://arxiv.org/pdf/1711.05788.pdf) | Monkie    |
+|        |                                                                            |           |
 
 ## Summer 2022
 
