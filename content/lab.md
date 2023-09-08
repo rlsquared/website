@@ -3,6 +3,30 @@
 
 If you would like to get notifications about the group meetings and other matters, please email [Marek.Petrik@unh.edu](mailto:Marek.Petrik@unh.edu) to be added to the mailing list.
 
+**When**: Thursdays 11am - 12pm
+
+**Where**: Kinsgsbury N242
+
+## Fall 2023
+
+| Date   | Topic                                                                              | Presenter |
+|--------|------------------------------------------------------------------------------------|-----------|
+| Sep 7  | Organizational meeting                                                             | Marek     |
+| Sep 14 | [Risk-averse RL](https://www.cs.unh.edu/~mpetrik/pub/tutorials/risk2/dlrl2023.pdf) | Marek     |
+| Sep 21 | Inverse RL                                                                         | Gersi     |
+| Sep 28 | Distributional RL                                                                  | Monkie    |
+| Oct 05 | Risk-averse SSP                                                                    | Xihong    |
+| Oct 12 | Convex RMDPs (practice talk)                                                       | Marek     |
+| Oct 19 | Risk-averse DP (practice talk)                                                     | Monkie    |
+| Oct 26 | Hamiltonian methods                                                                | Keith     |
+| Nov 02 | *No meeting*                                                                       |           |
+| Nov 09 |                                                                                    | Ahmed     |
+| Nov 16 |                                                                                    | Gersi     |
+| Nov 23 | *Thanksgiving, no meeting *                                                        |           |
+| Nov 30 |                                                                                    | Saba      |
+| Dec 07 |                                                                                    | Xihong    |
+| Dec 14 |                                                                                    | Keith     |
+
 ## Fall 2022
 
 **When**: Thursdays 1pm - 2pm
@@ -141,18 +165,18 @@ Long updates: even weeks: Elita, Monkie, Reazul, odd weeks: Bahram, Soheil, Devi
 
 **Where**: Zoom (mailing list for link)
 
-| Date    | Topic                                    | Presenter        |
-| ------- | ---------------------------------------- | ---------------- |
-| 5/27    | Inverse RL and Robustness                | Soheil           |
-| 6/03    | Optimizer's Curse                        | Lynette          |
-| 6/10    | [Risk and Robustness CVaR](https://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach.pdf)                                         | Monkie           |
-| 6/17    | [Deep RL and Energy](https://arxiv.org/abs/1702.08165)   | Saba             |
-| 6/24    | Polyanimals project                      | Chris            |
-| 7/01    | [Interpretable off-policy eval](https://arxiv.org/pdf/2002.03478.pdf)      | Elita            |
-| 7/08    | Lasso                                    | Devin            |
-| 7/15    | [Safe Policy Improvement](https://arxiv.org/abs/1712.06924) | Bahram           |
-| 7/22    | Inverse RL                               | Mostafa          |
-| 7/29    | Review                                   | Marek            |
+| Date | Topic                                                                                                                                    | Presenter |
+|------|------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| 5/27 | Inverse RL and Robustness                                                                                                                | Soheil    |
+| 6/03 | Optimizer's Curse                                                                                                                        | Lynette   |
+| 6/10 | [Risk and Robustness CVaR](https://papers.nips.cc/paper/6014-risk-sensitive-and-robust-decision-making-a-cvar-optimization-approach.pdf) | Monkie    |
+| 6/17 | [Deep RL and Energy](https://arxiv.org/abs/1702.08165)                                                                                   | Saba      |
+| 6/24 | Polyanimals project                                                                                                                      | Chris     |
+| 7/01 | [Interpretable off-policy eval](https://arxiv.org/pdf/2002.03478.pdf)                                                                    | Elita     |
+| 7/08 | Lasso                                                                                                                                    | Devin     |
+| 7/15 | [Safe Policy Improvement](https://arxiv.org/abs/1712.06924)                                                                              | Bahram    |
+| 7/22 | Inverse RL                                                                                                                               | Mostafa   |
+| 7/29 | Review                                                                                                                                   | Marek     |
 
 
 ## Spring 2020
@@ -164,16 +188,16 @@ Long updates: even weeks: Elita, Monkie, Reazul, odd weeks: Bahram, Soheil, Devi
 Ski-trip: Sat Feb 15th, 2020
 
 
-| Date   | Topic                                                                                                                                                                                 | Presenter |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Jan 29 | [Intrinsically Efficient ... Off-Policy Evaluation](https://papers.nips.cc/paper/8594-intrinsically-efficient-stable-and-bounded-off-policy-evaluation-for-reinforcement-learning.pdf)| Bahram    |
-| Feb 05 | [Percentile Optimization for MDPs](https://pubsonline.informs.org/doi/abs/10.1287/opre.1080.0685)                                                                                     | Monkie    |
-| Feb 12 | Proposal: Robust POMDPs                                                                                                                                                               | Devin     |
-| Feb 19 | Robust IRL                                                                                                                                                                            | Soheil    |
-| Feb 26 | Proposal: Spruce Budworm                                                                                                                                                              | Jason     |
-| Mar 04 | [Policy Gradient for Coherent Risk Measures](https://arxiv.org/pdf/1502.03919.pdf)                                                                                                    | Talha     |
-| Mar 11 | Poly-animals                                                                                                                                                                                      | Chris     |
-| Mar 18 | *Spring break*                                                                                                                                                                        |           |
+| Date   | Topic                                                                                                                                                                                  | Presenter |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| Jan 29 | [Intrinsically Efficient ... Off-Policy Evaluation](https://papers.nips.cc/paper/8594-intrinsically-efficient-stable-and-bounded-off-policy-evaluation-for-reinforcement-learning.pdf) | Bahram    |
+| Feb 05 | [Percentile Optimization for MDPs](https://pubsonline.informs.org/doi/abs/10.1287/opre.1080.0685)                                                                                      | Monkie    |
+| Feb 12 | Proposal: Robust POMDPs                                                                                                                                                                | Devin     |
+| Feb 19 | Robust IRL                                                                                                                                                                             | Soheil    |
+| Feb 26 | Proposal: Spruce Budworm                                                                                                                                                               | Jason     |
+| Mar 04 | [Policy Gradient for Coherent Risk Measures](https://arxiv.org/pdf/1502.03919.pdf)                                                                                                     | Talha     |
+| Mar 11 | Poly-animals                                                                                                                                                                           | Chris     |
+| Mar 18 | *Spring break*                                                                                                                                                                         |           |
 
 Coronavirus .....
 
